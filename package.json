@@ -1,0 +1,22 @@
+{
+  "name": "comparazione_statistica",
+  "version": "1.0.0",
+  "description": "Analizzatore statistiche pallavolo da file DVW",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "axios": "^1.6.0",
+    "recharts": "^2.10.0",
+    "papaparse": "^5.4.1"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "@vitejs/plugin-react": "^4.2.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
